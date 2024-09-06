@@ -34,7 +34,9 @@ Of course the user variables can also be changed directly in the code. You will 
 - `-a|--all` save all savegames
 - `-2|-ps2|--pcsx2` save all PCSX2 savegames
 - `-p|-psp|--ppsspp` save all PPSSPP savegames
-- `-d|-wii|-gc|--dolphin` save all Dolphin savegames
+- `-d|--dolphin` save all Dolphin savegames (Gamecube and Wii)
+- `-g|--gamecube` save all Dolphin Gamecube savegames
+- `-w|--wii` save all Dolphin Wii savegames
 - `-c|-3ds|--citra` save all Citra savegames
 - `-n|--no` no online/cloud backup (Not necessary if the cloud feature is deactivated)
 
